@@ -1,0 +1,14 @@
+#hero-container {
+  position: absolute;
+  max-width: 100vw;
+  max-height: 100vh;
+}
+#hero {
+  height: 150px;
+  transition: all 2s;
+}
+#laser {
+  width: 10%;
+  height: 30px;
+  position: absolute;
+}
